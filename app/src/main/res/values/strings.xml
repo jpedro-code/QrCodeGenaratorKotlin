@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Qr Code Kotlin</string>
+    <string name="name_app">Qr Code Genarator</string>
+    <string name="genarate">Genarate</string>
+    <string name="qr_code_content">Qr Code Content</string>
+</resources>
